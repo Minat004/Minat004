@@ -1,3 +1,4 @@
+# github push
 size_board = 3
 game_board = [[0 for i in range(size_board)] for j in range(size_board)]
 
